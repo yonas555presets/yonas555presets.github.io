@@ -24,7 +24,7 @@ button:hover{
 
 .container{
     width: 340px;
-    height: 220px;
+    height: 140px;
     background: white;
     border: 1px solid black;
     display: flex;
